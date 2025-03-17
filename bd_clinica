@@ -3,7 +3,7 @@
 
 
 CREATE DATABASE  bd_clinica2;
-USE bd_clinica;
+USE bd_clinica2;
 
 
 CREATE TABLE tb_clientes (
